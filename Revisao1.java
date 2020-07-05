@@ -20,9 +20,9 @@ import java.util.Scanner;
         System.out.print("Digite sua idade: ");
         int age = entry.nextInt();
 
-        int birthAge = 1997;
+        int birthYear = 1997;
         int futureYear = 2021;
-        int futureAge = futureYear - birthAge;
+        int futureAge = futureYear - birthYear;
 
         System.out.println("------------------------- Saida dos Dados -------------------------");
         System.out.println("Meu nome eh " + name + " tenho " + age + " anos de idade.");
