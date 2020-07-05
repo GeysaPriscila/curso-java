@@ -1,3 +1,6 @@
+/**
+ * Entrada de Dados
+ */
 import java.util.Scanner;
 
 public class EntradaDados {
