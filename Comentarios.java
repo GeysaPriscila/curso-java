@@ -1,3 +1,6 @@
+/**
+ * Comentários
+ */
 // Classe principal
 public class Comentarios {
     // Método principal
