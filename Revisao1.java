@@ -12,7 +12,6 @@ import java.util.Scanner;
 
  public class Revisao1 {
     public static void main(String args[]) {
-        // Comentário
         System.out.println("------------------------- Revisao da Aula -------------------------");
         Scanner entry = new Scanner(System.in);
         
